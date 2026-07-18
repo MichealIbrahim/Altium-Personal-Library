@@ -1,0 +1,11 @@
+# Altium generated folders
+History/
+Project Logs for*/
+__Previews/
+*.Cam
+# Temporary files
+*.log
+*.LOG
+*.bak
+*.tmp
+*.~*
